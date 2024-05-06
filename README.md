@@ -3,5 +3,8 @@ Hi coders🧑‍💻, Welcome🙏 to my respositories!!! Explore simple yet effe
 
 * Number is automorphic or not ?
 *  Number is strong or not ?
-*  Factorial of a Number 
+*  Factorial of a Number
+*  perfect number or not ?
+*  
+
 
