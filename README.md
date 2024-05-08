@@ -7,6 +7,9 @@ Hi coders🧑‍💻, Welcome🙏 to my respositories!!! Explore simple yet effe
 *  perfect number or not ?
 *  fibonacci series
 *  reverse a number
+*  digit count
+*  number is palindrome or not ??
+* 
   
 
 
